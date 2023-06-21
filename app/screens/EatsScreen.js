@@ -5,7 +5,7 @@ import { decode } from '@mapbox/polyline';
 import { GooglePlacesAutocomplete } from 'react-native-google-places-autocomplete';
 import { Platform } from 'react-native';
 import { Alert } from 'react-native';
-const GOOGLE_MAPS_APIKEY = 'AIzaSyAsWJOsm79veZPhS8zhgASYqk-IOWnYKAo';
+const GOOGLE_MAPS_APIKEY = '';
 const RADIUS = 1000;
 
 const EatsScreen = ({ navigation }) => {
